@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: Nginx
 typora-copy-images-to: Nginx
-top: 
+top: 1
 ---
 
 
